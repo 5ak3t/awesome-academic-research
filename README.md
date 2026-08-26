@@ -105,6 +105,7 @@ The foundation. Where you actually find literature.
 - [AskYourPDF](https://askyourpdf.com/) — Upload and chat with single or multiple PDFs.
 - [R Discovery](https://discovery.researcher.life/) — Personalized paper recommendations with summaries, audio streaming, and 30-language translation. Free.
 - [Jenni.ai](https://jenni.ai/) — In-editor PDF chat and autocomplete. Chat with your sources as you write.
+- [PDFAnnotations](https://pdfannotations.com/) — Extract highlights, underlines, notes, comments, and other annotations from PDFs and export them to Markdown, TXT, CSV, Excel, JSON, Obsidian, or Notion. Processes PDFs locally in the browser.
 
 ---
 
