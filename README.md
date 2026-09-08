@@ -132,6 +132,7 @@ The foundation. Where you actually find literature.
 - [Jenni.ai](https://jenni.ai/) — In-editor AI autocomplete, PDF citation insertion, and writing assistance while drafting. Useful for getting past blank-page paralysis.
 - [Overleaf](https://www.overleaf.com/) — Collaborative LaTeX editor in the browser. Standard for math, physics, engineering, and CS papers. Free tier is generous; paid plans from $21/month.
 - [Typeset / SciSpace](https://typeset.io/) — Automated journal formatting. Switches your manuscript between journal templates in seconds.
+- [Articlo](https://getarticlo.com/) — Prepares an existing Word manuscript for a supported target journal and returns an editable DOCX, change summary, and author checklist. Human editorial and reference-validity review remain essential.
 - [Predatory Journals Watchlist](https://predatoryjournals.com/) — Check before submitting to an unfamiliar journal.
 
 ### Writing Resources
