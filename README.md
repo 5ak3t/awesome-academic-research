@@ -184,6 +184,7 @@ The foundation. Where you actually find literature.
 - [PREreview](https://prereview.org/) — Open preprint review platform. Submit or request structured peer review. 2,000+ reviewers in 170+ countries.
 - [Altmetric](https://www.altmetric.com/) — Track online attention your papers receive: news, policy documents, social media, Wikipedia.
 - [Publons / Web of Science Reviewer Recognition](https://publons.com/) — Record and verify your peer review history and editorial contributions.
+- [JournalCompass](https://journalcompass.com/) — Free bilingual search across 43,499 journals to choose where to publish, with CAS quartile, impact factor, review time, APC, and an AI journal-matching assistant.
 
 ---
 
