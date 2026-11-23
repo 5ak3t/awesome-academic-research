@@ -37,6 +37,7 @@ The foundation. Where you actually find literature.
 - [ACM Digital Library](https://dl.acm.org/) — Computer science and information technology.
 - [CORE](https://core.ac.uk/) — Aggregates 200M+ open access research papers from repositories worldwide. Free.
 - [Dimensions AI](https://www.dimensions.ai/) — Links publications to grants, patents, and clinical trials. 100M+ papers.
+- - [JournalCompass](https://journalcompass.com/) — Free bilingual search across 43,499 SCI/SSCI journals with CAS rankings, impact factors, review times, APCs, and an AI journal matcher. Free.
 
 ---
 
